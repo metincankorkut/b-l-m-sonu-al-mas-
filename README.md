@@ -1,2 +1,2 @@
-# bolum-sonu-calimasi
+# bolum-sonu-calismasi
 ödev3 
