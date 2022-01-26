@@ -1,2 +1,2 @@
-# b-l-m-sonu-al-mas-
+# bolum-sonu-calimasi
 ödev3 
